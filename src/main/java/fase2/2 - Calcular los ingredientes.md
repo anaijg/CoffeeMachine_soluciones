@@ -25,7 +25,7 @@ Para 25 tazas de café necesitas:
 ```
 **Ejemplo 2:** aquí hay otro diálogo
 ```
-Èscribe cuántas tazas de café vas a necesitar:
+Escribe cuántas tazas de café vas a necesitar:
 > 125
 Para 125 tazas de café necesitas:
 25000 ml de agua
