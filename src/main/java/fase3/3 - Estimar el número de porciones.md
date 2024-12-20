@@ -94,5 +94,5 @@ Escribe cuántos gramos de café tiene la máquina:
 > 15
 Escribe cuántas tazas de café necesitas hacer:
 > 0
-Sí, puedo hacer esa cantidad de café (e incluso 2 tazas más)
+Sí, puedo hacer esa cantidad de café (e incluso 1 taza(s) más)
 ```
